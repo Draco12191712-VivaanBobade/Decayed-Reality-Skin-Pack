@@ -1,0 +1,22 @@
+# MacOS System Files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows System Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# IDE and Project Configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Development / Build Artifacts
+node_modules/
+dist/
+out/
+build/

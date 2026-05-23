@@ -1,0 +1,42 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Draco12191712 (Vivaan Bobade)"
+		],
+		"generated_with": {
+			"bridge": [
+				"2.7.54"
+			],
+			"dash": [
+				"0.11.7"
+			]
+		}
+	},
+	"header": {
+		"name": "Decayed Reality Skin Pack",
+		"description": "This skin pack brings the human mobs from Decayed Reality V2 to life, allowing you to wear them as custom player skins. See CREDITS.md file for all credits",
+		"min_engine_version": [
+			1,
+			21,
+			120
+		],
+		"uuid": "68acb750-acee-49d4-8c3c-851ace30d3d3",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "skin_pack",
+			"uuid": "b971ed67-d054-46da-bce1-41738e2d8aa8",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}

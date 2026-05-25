@@ -1,6 +1,13 @@
 {
 	"geometry": "skinpacks/skins.json",
-	"skins": [],
+	"skins": [
+		{
+			"localization_name": "drskinpack",
+			"geometry": "geometry.human",
+			"texture": "adelbert.png",
+			"type": "free"
+		}
+	],
 	"serialize_name": "drskinpack",
 	"localization_name": "drskinpack"
 }

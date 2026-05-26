@@ -23,9 +23,9 @@
 		],
 		"uuid": "68acb750-acee-49d4-8c3c-851ace30d3d3",
 		"version": [
-			1,
 			0,
-			0
+			0,
+			1
 		]
 	},
 	"modules": [
@@ -33,9 +33,9 @@
 			"type": "skin_pack",
 			"uuid": "b971ed67-d054-46da-bce1-41738e2d8aa8",
 			"version": [
-				1,
 				0,
-				0
+				0,
+				1
 			]
 		}
 	]

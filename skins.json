@@ -2,9 +2,21 @@
 	"geometry": "skinpacks/skins.json",
 	"skins": [
 		{
-			"localization_name": "drskinpack",
-			"geometry": "geometry.human",
+			"localization_name": "adelbert",
+			"geometry": "geometry.humanoid.custom",
 			"texture": "adelbert.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "aiden",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "aiden.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "alaric",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "alaric.png",
 			"type": "free"
 		}
 	],

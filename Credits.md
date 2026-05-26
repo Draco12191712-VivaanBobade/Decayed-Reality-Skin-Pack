@@ -6,7 +6,7 @@
 
 Thank you **Decayed Team** for your contributions to this pack! I couldn't have done it without you! 
 Especially Tazo! For allowing me access to Decayed Reality Textures! I seriously wouldn't be able to make
-this pack without you! Anyway, onto the actual credits!
+this pack without you! Also, the names and textures were adopted from the Decayed Reality Add-on. Anyway, onto the actual credits!
 
 ---
 

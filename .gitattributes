@@ -1,2 +1,3 @@
 *.json linguist-language=Javascript
 *.lang linguist-language=Properties
+*.lang linguist-detectable=true

@@ -5,8 +5,8 @@
 ## Texture Assets
 
 Thank you **Decayed Team** for your contributions to this pack! I couldn't have done it without you! 
-Especially Tazo! For allowing me access to Decayed Reality Textures! I seriously wouldn't be able to make
-this pack without you! Also, the names and textures were adopted from the Decayed Reality Add-on. Anyway, onto the actual credits!
+Especially Tazo, for allowing me access to the Decayed Reality Textures! I seriously wouldn't be able to make
+this pack without you! Also, the names and textures were adapted from the Decayed Reality Add-on. Anyway, onto the actual credits!
 
 ---
 
@@ -45,8 +45,8 @@ this pack without you! Also, the names and textures were adopted from the Decaye
 
 ##### Pay no heed
 
-Pay no heed to me, Draco12191712 (Vivaan Bobade), I am just the guy who ported textures and made the skin
-pack! But of course, I do deserve a little credits, so here we go:
+Pay no heed to me, Draco12191712 (Vivaan Bobade). I am just the guy who ported textures and made the skin
+pack! But of course, I do deserve a little credit, so here we go:
 
 ###### Unneeded Self Glaze
 
@@ -64,9 +64,9 @@ Ooh, ok! I guess you wanna see more credits!
 
 ## More Credits!
 
-* Check out the actual Decayed Reality Add-on [here](https://www.decayed-team.com/blog/decayed-reality-v2-11-add-on)
-* Look at my Curseforge Profile [here](https://www.curseforge.com/members/draco12191712/projects)
-Yeah, I know, more self-glaze but, I _had_ to do it! :)
+* Check out the actual Decayed Reality Add-on [here](https://decayed-team.com)
+* Look at my Curseforge Profile [here](https://curseforge.com)
+Yeah, I know, more self-glaze, but I _had_ to do it! :)
 
 Ok, that's finally it! STOP READING
 

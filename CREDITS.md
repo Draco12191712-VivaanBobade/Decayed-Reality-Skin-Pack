@@ -65,7 +65,7 @@ Ooh, ok! I guess you wanna see more credits!
 ## More Credits!
 
 * Check out the actual Decayed Reality Add-on [here](https://decayed-team.com)
-* Look at my Curseforge Profile [here](https://curseforge.com)
+* Look at my Curseforge Profile [here](https://www.curseforge.com/members/draco12191712/projects)
 Yeah, I know, more self-glaze, but I _had_ to do it! :)
 
 Ok, that's finally it! STOP READING

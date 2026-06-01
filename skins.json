@@ -1,6 +1,13 @@
 {
-	"geometry": "skinpacks/skins.json",
+	"serialize_name": "drskinpack",
+	"localization_name": "drskinpack",
 	"skins": [
+		{
+			"localization_name": "drskinpack",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "macintosh.png",
+			"type": "free"
+		},
 		{
 			"localization_name": "adelbert",
 			"geometry": "geometry.humanoid.custom",
@@ -19,7 +26,5 @@
 			"texture": "alaric.png",
 			"type": "free"
 		}
-	],
-	"serialize_name": "drskinpack",
-	"localization_name": "drskinpack"
+	]
 }

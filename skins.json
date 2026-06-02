@@ -97,6 +97,12 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "chloe.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "curly",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "curly.png",
+			"type": "free"
 		}
 	]
 }

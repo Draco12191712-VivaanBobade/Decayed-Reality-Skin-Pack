@@ -1,3 +1,8 @@
 *.json linguist-language=JavaScript
 *.lang linguist-language=INI
 *.lang linguist-detectable=true
+*.png binary
+*.png linguist-documentation=false
+*.png linguist-vendored=false
+*.png linguist-generated=false
+*.png linguist-language=PNG

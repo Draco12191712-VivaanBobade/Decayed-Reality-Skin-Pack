@@ -67,6 +67,36 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "bob.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "bobert",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "bobert.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "calvin",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "calvin.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "camilor",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "camilor.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "cave",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "cave.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "chloe",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "chloe.png",
+			"type": "free"
 		}
 	]
 }

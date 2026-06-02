@@ -25,6 +25,48 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "alaric.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "alexis",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "alexis.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "anthony",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "anthony.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "ariel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "ariel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "arthur",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "arthur.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "balanda",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "balanda.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "binta",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "binta.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "bob",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "bob.png",
+			"type": "free"
 		}
 	]
 }

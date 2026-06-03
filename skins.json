@@ -103,6 +103,510 @@
 			"geometry": "geometry.humanoid.custom",
 			"texture": "curly.png",
 			"type": "free"
+		},
+		{
+			"localization_name": "daniel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "daniel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "discodude",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "discodude.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "ducky",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "ducky.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "dustin",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "dustin.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "eduardo",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "eduardo.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "elizabeth",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "elizabeth.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "emily",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "emily.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "emmoc",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "emmoc.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "emoboy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "emoboy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "endermits_facundo",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "endermits_facundo.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "endermits_frontman",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "endermits_frontman.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "endermits_skir",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "endermits_skir.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "endermits_ster",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "endermits_ster.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "ezequiel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "ezequiel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "famousdude1",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "famousdude1.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "famousdude2",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "famousdude2.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "fangirl_bianca",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "fangirl_bianca.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "frankly",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "frankly.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "gabriel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "gabriel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "gentlemen",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "gentlemen.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "gill_blazerod",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "gill_blazerod.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "glowstone_blad",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "glowstone_blad.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "glowstone_midki",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "glowstone_midki.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "hank",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "hank.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "hankpin",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "hankpin.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "harry",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "harry.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "hector",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "hector.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "ivy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "ivy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "james",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "james.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "jeff",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "jeff.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "jeffry",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "jeffry.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "jem",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "jem.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "jimmy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "jimmy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "justin",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "justin.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "kent",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "kent.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "lionel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "lionel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "lumor",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "lumor.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "lydia",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "lydia.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "mabel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "mabel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "madeline",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "madeline.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "magma_ririy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "magma_ririy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "magma_stella",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "magma_stella.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "martha",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "martha.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "maya_blazerod",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "maya_blazerod.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "mia",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "mia.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "michael",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "michael.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "miguel",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "miguel.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "miku",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "miku.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "mila",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "mila.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "miller",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "miller.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "milo",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "milo.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "miranda",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "miranda.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "nathan",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "nathan.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "nerdgirl",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "nerdgirl.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "nicolas",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "nicolus.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "nohr",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "nohr.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "owen",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "owen.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "plsfix",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "plsfix.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "radar",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "radar.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "rimor",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "rimor.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "selene",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "selene.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "seth",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "seth.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "shadowlady",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "shadowlady.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "sigge",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "sigge.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "sky",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "sky.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "slep",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "slep.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "sofie",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "sofie.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "stacy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "stacy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "stampy",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "stampy.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "stanley",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "stanley.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "stephen",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "stephen.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "steven",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "steven.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "thiago",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "thiago.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "timber",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "timber.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "tomal",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "tomal.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "tony",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "tony.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "trevor",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "trevor.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "turran",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "turran.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "vance",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "vance.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "villar",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "villar.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "will",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "will.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "william",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "william.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "yawmir",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "yawmir.png",
+			"type": "free"
+		},
+		{
+			"localization_name": "zeeke",
+			"geometry": "geometry.humanoid.custom",
+			"texture": "zeeke.png",
+			"type": "free"
 		}
 	]
 }

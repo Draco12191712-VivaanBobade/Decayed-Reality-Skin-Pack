@@ -1,15 +1,15 @@
-## Pack Metadata
+## Metadados do Pacote
 pack.name=Decayed Reality Skin Pack
-pack.description=This skin pack brings the human mobs from Decayed Reality V2 to life, allowing you to wear them as custom player skins. See CREDITS.md file for all credits
+pack.description=Este pacote de skins dá vida às criaturas humanas do Decayed Reality V2, permitindo-te usá-las como skins de jogador personalizadas. Consulta o ficheiro CREDITS.md para veres todos os créditos.
 
-## Skin Pack Name
+## Nome do Pacote de Skins
 skinpack.drskinpack=Decayed Reality Skin Pack
 
 ## Skins
-skin.drskinpack.drskinpack=A Bonus Macintosh
+skin.drskinpack.drskinpack=Um Macintosh de Bónus
 skin.drskinpack.adelbert=Adelbert
 skin.drskinpack.aiden=Aiden
-skin.drskinpack.alaric=Alaric
+skin.drskinpack.alaric=Alarico
 skin.drskinpack.alexis=Alexis
 skin.drskinpack.anthony=Anthony
 skin.drskinpack.ariel=Ariel
@@ -20,30 +20,30 @@ skin.drskinpack.bob=Bob
 skin.drskinpack.bobert=Bobert
 skin.drskinpack.calvin=Calvin
 skin.drskinpack.camilor=Camilor
-skin.drskinpack.cave=Cave
+skin.drskinpack.cave=Caverna
 skin.drskinpack.chloe=Chloe
 skin.drskinpack.curly=Curly
 skin.drskinpack.daniel=Daniel
-skin.drskinpack.discodude=Disco Dude
+skin.drskinpack.discodude=Rapaz da Disco
 skin.drskinpack.ducky=Ducky
 skin.drskinpack.dustin=Dustin
 skin.drskinpack.eduardo=Eduardo
 skin.drskinpack.elizabeth=Elizabeth
 skin.drskinpack.emily=Emily
 skin.drskinpack.emmoc=Emmoc
-skin.drskinpack.emoboy=Emo Boy
+skin.drskinpack.emoboy=Rapaz Emo
 skin.drskinpack.endermits_facundo=Endermits Facundo
-skin.drskinpack.endermits_frontman=Endermits Frontman
+skin.drskinpack.endermits_frontman=Líder dos Endermits
 skin.drskinpack.endermits_skir=Endermits Skir
 skin.drskinpack.endermits_ster=Endermits Ster
 skin.drskinpack.ezequiel=Ezequiel
-skin.drskinpack.famousdude1=A Famous Dude
-skin.drskinpack.famousdude2=Another Famous Dude
+skin.drskinpack.famousdude1=Um Rapaz Famoso
+skin.drskinpack.famousdude2=Outro Rapaz Famoso
 skin.drskinpack.fangirl_bianca=Fangirl Bianca
 skin.drskinpack.frankly=Frankly
-skin.drskinpack.gabriel=Gaberiel
-skin.drskinpack.gentlemen=Gentlemen
-skin.drskinpack.gill_blazerod=Gill the Blazerod
+skin.drskinpack.gabriel=Gabriel
+skin.drskinpack.gentlemen=Gentleman
+skin.drskinpack.gill_blazerod=Gill a Vara de Blaze
 skin.drskinpack.glowstone_blad=Glowstone Blad
 skin.drskinpack.glowstone_midki=Glowstone Midki
 skin.drskinpack.hank=Hank
@@ -66,7 +66,7 @@ skin.drskinpack.madeline=Madeline
 skin.drskinpack.magma_ririy=Magma Ririy
 skin.drskinpack.magma_stella=Magma Stella
 skin.drskinpack.martha=Martha
-skin.drskinpack.maya_blazerod=Maya the Blazerod
+skin.drskinpack.maya_blazerod=Maya a Vara de Blaze
 skin.drskinpack.mia=Mia
 skin.drskinpack.michael=Michael
 skin.drskinpack.miguel=Miguel
@@ -76,7 +76,7 @@ skin.drskinpack.miller=Miller
 skin.drskinpack.milo=Milo
 skin.drskinpack.miranda=Miranda
 skin.drskinpack.nathan=Nathan
-skin.drskinpack.nerdgirl=Nerd Girl
+skin.drskinpack.nerdgirl=Rapariga Nerd
 skin.drskinpack.nicolas=Nicolas
 skin.drskinpack.nohr=Nohr
 skin.drskinpack.owen=Owen
@@ -107,4 +107,4 @@ skin.drskinpack.will=Will
 skin.drskinpack.william=William
 skin.drskinpack.zeeke=Zeeke
 
-## That's it for now!! Bye!!
+## Por agora é tudo!! Adeus!!

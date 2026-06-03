@@ -15,7 +15,12 @@
 	},
 	"header": {
 		"name": "Decayed Reality Skin Pack",
-		"description": "This skin pack brings the human mobs from Decayed Reality V2 to life, allowing you to wear them as custom player skins. See CREDITS.md for credits.",
+		"description": "This skin pack brings the human mobs from Decayed Reality V2 to life, allowing you to wear them as custom player skins. See CREDITS.md file for all credits",
+		"min_engine_version": [
+			1,
+			20,
+			0
+		],
 		"uuid": "68acb750-acee-49d4-8c3c-851ace30d3d3",
 		"version": [
 			1,

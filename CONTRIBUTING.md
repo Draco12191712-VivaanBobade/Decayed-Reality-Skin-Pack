@@ -80,8 +80,8 @@ Include:
 
 Example:
 
-- Added a new astronaut skin.
-- Tested on Minecraft Bedrock 1.22.x.
+- Added a new mcsm skin.
+- Tested on Minecraft Bedrock 26.x.
 - Verified skin geometry and textures display correctly.
 
 ## Commit Message Examples
